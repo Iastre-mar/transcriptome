@@ -1,0 +1,5 @@
+param	value
+cmd_line	cuffdiff -o first_task -p 4 --library-type fr-firststrand Homo_sapiens.GRCh38.100.gtf 408GBM0G-1_S25_L005Aligned.sortedByCoord.out.bam 408GBM8G-1_S28_L005Aligned.sortedByCoord.out.bam 
+version	2.2.1
+SVN_revision	
+boost_version	107100

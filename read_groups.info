@@ -1,0 +1,3 @@
+file	condition	replicate_num	total_mass	norm_mass	internal_scale	external_scale
+408GBM0G-1_S25_L005Aligned.sortedByCoord.out.bam	q1	0	9.74415e+06	1.00567e+07	0.961974	1
+408GBM8G-1_S28_L005Aligned.sortedByCoord.out.bam	q2	0	1.03817e+07	1.00567e+07	1.03954	1
